@@ -33,3 +33,5 @@ screenshots/ -> Execution proof
 
 ## Project Status
 Step 2 completed – repository structure and documentation ready.
+Trigger CI test
+
