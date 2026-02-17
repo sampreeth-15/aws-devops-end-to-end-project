@@ -35,3 +35,32 @@ screenshots/ -> Execution proof
 Step 2 completed – repository structure and documentation ready.
 Trigger CI test
 
+## 📸 Project Screenshots
+
+### ☁ AWS Infrastructure
+![EC2 Running](screenshots/aws-ec2-running.png)
+![VPC Setup](screenshots/aws-vpc-setup.png)
+
+### 🏗 Terraform (Infrastructure as Code)
+![Terraform Plan](screenshots/terraform-plan.png)
+![Terraform Apply](screenshots/terraform-apply.png)
+
+### 🐳 Docker & Containers
+![Docker Containers](screenshots/docker-containers.png)
+
+### 🔍 SonarQube Code Quality
+![Sonar Dashboard](screenshots/sonarqube-dashboard.png)
+![Quality Gate](screenshots/sonarqube-qualitygate.png)
+
+### 🛡 Trivy Security Scan
+![Trivy Scan](screenshots/trivy-scan.png)
+
+### 📊 Monitoring (Prometheus & Grafana)
+![Prometheus Targets](screenshots/prometheus-targets.png)
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
+
+### 🚀 CI/CD Pipeline
+![GitHub Actions](screenshots/github-actions-success.png)
+![Pull Request](screenshots/pr-merged.png)
+
+
