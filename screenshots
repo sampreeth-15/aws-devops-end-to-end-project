@@ -1,1 +1,16 @@
+screenshots/
+ ├── aws-ec2-running.png
+ ├── aws-vpc-setup.png
+ ├── aws-security-group.png
+ ├── terraform-plan.png
+ ├── terraform-apply.png
+ ├── docker-containers.png
+ ├── docker-compose-up.png
+ ├── sonarqube-dashboard.png
+ ├── sonarqube-qualitygate.png
+ ├── trivy-scan.png
+ ├── prometheus-targets.png
+ ├── grafana-dashboard.png
+ ├── github-actions-success.png
+ └── pr-merged.png
 
