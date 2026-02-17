@@ -1,1 +1,6 @@
+# Monitoring
+
+- Used AWS CloudWatch
+- Monitored EC2 CPU usage
+- Checked instance health
 
