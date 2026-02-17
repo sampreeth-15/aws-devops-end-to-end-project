@@ -1,1 +1,7 @@
+# Security Practices
+
+- Used Codacy for static code analysis
+- No secrets stored in GitHub
+- Used IAM roles for AWS access
+- Terraform state stored securely in S3
 
